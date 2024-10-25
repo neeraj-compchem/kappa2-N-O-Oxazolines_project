@@ -1,6 +1,6 @@
 # kappa2-N-O-Oxazolines_project
 This is a data and code repository for the following manuscript:<br>
-"Parametrization of <i>κ</i><sup>2</sup>-N,O-Oxazoline Preligands for Enantioselective Cobaltaelectro-catalyzed C–H Activations".
+"Harnessing Data Science to Advance <i>κ</i><sup>2</sup>-<i>N<i>,<i>O-Oxazoline Preligands for Enantioselective Cobaltaelectro-Catalyzed C–H Activations".
 
 
 Last updated on Aug 13, 2024
