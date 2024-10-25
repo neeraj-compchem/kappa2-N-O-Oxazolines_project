@@ -19,18 +19,19 @@ Notebook 2 (nb2_feat_corr_univariate_selectivity_analysis.ipynb):
 Notebook 3 (nb3_multivariate_modeling.ipynb):
 - MVLR modeling and sorting 
 - Prediction performance visualization
-- Model extrapolation with external set
+- Model extrapolation with an external set
  
 # Packages requirements
 The following packages were present during code development in the Google Colab notebooks. To reproduce the results, it is recommended that you use the same versions.
 ```
-python = 3.10.12
-numpy = 1.25.2  
-pandas = 2.0.3 
-matplotlib = 3.7.1
-scipy = 1.11.4 
-seaborn = 0.13.1 
-sklearn = 1.2.2  
+python = 3.12.4
+numpy = 1.26.4  
+pandas = 2.2.2 
+scipy = 1.13.1 
+sklearn = 1.4.2
+matplotlib = 3.8.4
+mpl_toolkits (matplotlib) = 3.8.4
+seaborn = 0.13.2   
 ```
 
 ## How to cite
