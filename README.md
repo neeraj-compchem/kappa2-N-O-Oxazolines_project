@@ -8,8 +8,8 @@ Last updated on Oct 25, 2024
 ## Overview
 
 ### Python Files
-**forward_stepwise.py**  
-- Multivariate model searching function using the stepwise forward feature selection method.
+- **forward_stepwise.py**  
+  - Multivariate model searching function using the stepwise forward feature selection method.
 
 ### Notebooks
 - **nb1_univariate_reactivity_analysis.ipynb**  
