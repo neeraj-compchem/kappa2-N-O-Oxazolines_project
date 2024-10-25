@@ -26,7 +26,7 @@ Last updated on Oct 25, 2024
 
  
 # Packages requirements
-The following packages were present during code development in the Google Colab notebooks. To reproduce the results, it is recommended that you use the same versions.
+The following packages were present during code development in the Jupyter notebooks. It is recommended to use the same versions while reproducing the results.
 ```
 python = 3.12.4
 numpy = 1.26.4  
@@ -38,10 +38,9 @@ mpl_toolkits (matplotlib) = 3.8.4
 seaborn = 0.13.2   
 ```
 
-## How to cite
-The code provided here is released under the MIT license. Commercial use, modification, and private use are all permitted. Please use the following citation to acknowledge this workflow:
-
-The manuscript is under submission. The final reference will be updated here.
+## How to Cite
+The code is released under the MIT license, permitting commercial use, modification, and private use.  
+**Note:** The manuscript is currently under submission. Please check back here for the final citation once available.
 
 ## Contact details
 Email: neerajkumar.pandit@uni-goettingen.de; Lutz.Ackermann@chemie.uni-goettingen.de
