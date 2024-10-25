@@ -13,16 +13,16 @@ Last updated on Oct 25, 2024
 
 ### Notebooks
 - **nb1_univariate_reactivity_analysis.ipynb**  
-  Univariate reactivity classification for selected features.
+  - Univariate reactivity classification for selected features.
 
 - **nb2_feat_corr_univariate_selectivity_analysis.ipynb**  
-  Ligand feature analysis: Pearson correlation and box plots.  
-  Univariate selectivity correlations for selected features.
+  - Ligand feature analysis: Pearson correlation and box plots.  
+  - Univariate selectivity correlations for selected features.
 
 - **nb3_multivariate_modeling.ipynb**  
-  MVLR modeling and sorting.  
-  Prediction performance visualization.  
-  Model extrapolation with an external set.
+  - MVLR modeling and sorting.  
+  - Prediction performance visualization.  
+  - Model extrapolation with an external set.
 
  
 # Packages requirements
